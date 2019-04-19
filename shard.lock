@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  sdl:
+    github: ysbaddaden/sdl.cr
+    commit: 21ae9e3aa7e51727620929761628ca62cff83ad8
+
